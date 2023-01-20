@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="profile/solenium.png" width="100%"/>
+  <img src="profile/soleniumai.png" width="100%"/>
 </div>
